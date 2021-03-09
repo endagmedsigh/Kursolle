@@ -1,0 +1,4 @@
+string | "@", "Johan", 'Sebastian' | Alla texter och tecken. Markeras med dubbelfnutt(") eller enkelfnutt(')
+int | 1, 7, -9 | Står för integer och lagrar heltal
+float | 0.0, 4.5, -9.7 | Flyttal, lagrar decimaltal, notera decimalpunkt enligt engelskspråkig standard
+boolean | True, False | Boolesk variabel, lagrar sant eller falskt, ofta ett resultat av ett uttryck som (1 < 2)
